@@ -1,15 +1,5 @@
 # Functional Programming Project
 
-## Programme for searching and visualising music data
+## Programme for searching and visualising pizza data
 
-The programme is to be programmed in Haskell and use the Spotify API.
-
-Ideas:
-- charts
-- top 100 songs in Germany and Latvia
-- sort songs
-- visualize amount and distribution of singers, songs and categories in diagrams (pie chart, histogram, bar chart, ...)
-- average length of songs
-
-Spotify API:
-- https://developer.spotify.com/documentation/web-api/
+https://earthy-glade-4f0.notion.site/Installation-description-e84a6efc1aa94098b4c3dd00c13597f8
