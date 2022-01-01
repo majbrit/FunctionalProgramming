@@ -1,6 +1,7 @@
 # Functional Programming Project
+ (https://earthy-glade-4f0.notion.site/Installation-description-e84a6efc1aa94098b4c3dd00c13597f8)
 
-## Programme for searching and visualising pizza data
+## Programme for showing pizza data
 
 https://earthy-glade-4f0.notion.site/Installation-description-e84a6efc1aa94098b4c3dd00c13597f8
 
