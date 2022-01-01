@@ -7,4 +7,7 @@ https://earthy-glade-4f0.notion.site/Installation-description-e84a6efc1aa94098b4
 
 ![image](https://user-images.githubusercontent.com/58175351/147852041-a14162be-7a90-4c2d-9491-4e08076ca107.png)
 
+![image](https://user-images.githubusercontent.com/58175351/147852544-b3353990-d941-44d5-b172-bc932eb671d0.png)
+
+
 by [David Melamed](https://github.com/Dawinartor) and [Majbrit Schöttner](https://github.com/majbrit)
