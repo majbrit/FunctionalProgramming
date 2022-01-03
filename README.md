@@ -1,5 +1,5 @@
 # Functional Programming Project
-*Instructions for starting our project: https://www.notion.so/Installation-Description-b66417a057e7493dbe1d4c6aa75fdf86*
+*Instructions for starting our project: https://www.notion.so/Installation-Description-b66417a057e7493dbe1d4c6aa75fdf86 or https://github.com/majbrit/FunctionalProgramming/blob/main/Installation_Description.pdf*
 
 ## Programme for showing pizza data
 
