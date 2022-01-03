@@ -8,11 +8,8 @@ The main part of the project is to read in a remote JSON file using a URL. The d
 
 When the programme is started, the list of persons is output in JSON format and each person is presented in the form of a sentence.  The user is asked for his or her name. The input is stored in a variable and used in the next question to address the user directly. The user is asked if he or she likes pizza. If the answer is "yes" or "Yes", "Ahhh" is output, otherwise "Wrong answer".
 
-Translated with www.DeepL.com/Translator (free version)
-
 ![image](https://user-images.githubusercontent.com/58175351/147852041-a14162be-7a90-4c2d-9491-4e08076ca107.png)
 
 ![image](https://user-images.githubusercontent.com/58175351/147852544-b3353990-d941-44d5-b172-bc932eb671d0.png)
-
 
 by [David Melamed](https://github.com/Dawinartor) and [Majbrit Schöttner](https://github.com/majbrit)
