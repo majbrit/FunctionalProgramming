@@ -8,8 +8,6 @@ import qualified Data.ByteString.Lazy as B
 import Network.HTTP.Conduit (simpleHttp)
 import GHC.Generics
 
-import Graphics.Vega.VegaLite
-
 -- | Type of each JSON entry in record syntax.
 data Person =
   Person { firstName  :: !Text
@@ -64,6 +62,7 @@ introduction2 (Person firstName lastName age likesPizza)
   | otherwise = putStrLn(show firstName ++ " " ++ show lastName ++ " is " ++ show age ++ " years old and doesn't like pizza.")
 
 -- Reactions to the user's answers about whether he or she likes pizza
+doeslike :: String -> IO()
 doeslike "yes" = putStrLn ("Ahhh\n")
 doeslike "Yes" = putStrLn ("Ahhh\n")
 doeslike a = putStrLn ("Wrong answer\n")
@@ -96,3 +95,10 @@ main = do
 
       -- adoption
       putStrLn ("Bye\n")
+
+
+
+    
+
+
+ 
